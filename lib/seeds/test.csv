@@ -1,4 +1,4 @@
-Name,Emp_Id,Gender,Email
+Name,Emp_Id,Gender,Emails
 Aashique Karn,601,M,aashique.karn@joshsoftware.com
 Tejashree Vasudev Surve,209,F,tejashree.surve@joshsoftware.com
 Shruti Khandagiri,587,F,shruti.khandagir@joshsoftware.com
@@ -16,7 +16,7 @@ Vaibhav Shrikant Jagdale,451,M,vaibhav.jagdale@joshsoftware.com
 Suraj Rane,214,M,suraj.rane@joshsoftware.com
 Akash Laxmanrao Kinwad,369,M,akash.kinwad@joshsoftware.com
 Akshai,613,M,akshai.mohan@joshsoftware.com
-Akansha Jain ,452,F,akansha.jain@joshsoftware.com
+Akansha Jain,452,F,akansha.jain@joshsoftware.com
 Akshay Suresh Badgujar,373,M,akshay.badgujar@joshsoftware.com
 Akshay Kumar V,JIN081,M,akshay.kumar@joshsoftware.com
 Akshay Balasaheb Randhave,376,M,akshay.randhave@joshsoftware.com
@@ -44,14 +44,14 @@ Deepika Rai,495,F,deepika.rai@joshsoftware.com
 Ashish Kumar,543,M,ashish.kumar@joshsoftware.com
 Amar Chavan,161,M,amar.chavan@joshsoftware.com
 Ashish Pande,165,M,ashish.pande@joshsoftware.com
-Varun Gadde ,358,M,varun.gadde@joshsoftware.com
+Varun Gadde,358,M,varun.gadde@joshsoftware.com
 Ashwin Raj PD,588,M,ashwin.raj@joshsoftware.com
 Preeti Chandrakar,486,F,preeti.chandrakar@joshsoftware.com
 Chaithanya S,378,F,chaithanya.s@joshsoftware.com
 Avinil Rajendrakumar Bedarkar,631,M,avinil.bedarkar@joshsoftware.com
 Swapnil Kale,207,M,swapnil.kale@joshsoftware.com
 B Bharat Bhusan Subudhi,641,M,bharat.subudhi@joshsoftware.com
-Sanchita Sankpal ,441,F,sanchita.sankpal@joshsoftware.com
+Sanchita Sankpal,441,F,sanchita.sankpal@joshsoftware.com
 Reshma S N,532,F,reshma.sn@joshsoftware.com
 Paresh Devidas Sawant,402,M,paresh.sawant@joshsoftware.com
 BUDDALA CHARAN TEJA,611,M,buddala.teja@joshsoftware.com
@@ -66,7 +66,7 @@ Deepak Narayan,674,M,deepak.narayan@joshsoftware.com
 Vikram Singh,239,M,vikram.singh@joshsoftware.com
 Ashwini Prakash Todewar,491,F,ashwini.todewar@joshsoftware.com
 Vishnupriya Gottipati,478,F,gottipati.vishnupriya@joshsoftware.com
-Arpit Chaturvedi ,420,M,arpit.chaturvedi@joshsoftware.com
+Arpit Chaturvedi,420,M,arpit.chaturvedi@joshsoftware.com
 Satbeer Singh Bhatia,225,M,satbeer.singh@joshsoftware.com
 Parekh Dhruvit Rakeshbhai,410,M,dhruvit.parekh@joshsoftware.com
 Akshata Yalamalli,453,F,akshata.yalamalli@joshsoftware.com
@@ -75,7 +75,7 @@ Bhuvaneshwari D,535,F,bhuvaneshwari.d@joshsoftware.com
 Sumit Patil,458,M,sumit.patil@joshsoftware.com
 rahul khandelwal,282,M,rahul.khandelwal@joshsoftware.com
 Gaurav Sai R,673,M,gaurav.sai@joshsoftware.com
-Wagh Pragati ,196,F,pragati.wagh@joshsoftware.com
+Wagh Pragati,196,F,pragati.wagh@joshsoftware.com
 Manjunath Laxman Lamani,605,M,manjunath.lamani@joshsoftware.com
 Gireesh M,649,M,gireesh.m@joshsoftware.com
 Glynelle de Souza,639,F,glynelle.desouza@joshsoftware.com
@@ -88,7 +88,7 @@ Hari Prasath K,632,M,hari.prasath@joshsoftware.com
 Ankush Baliramji Kadam,305,M,ankush.kadam@joshsoftware.com
 Harsh Pratap Singh,448,M,harsh.singh@joshsoftware.com
 Himanshu Tripathi,627,M,himanshu.tripathi@joshsoftware.com
-Jaydeep Suresh Jadhav ,JIN096,M,jaydeep.jadhav@joshsoftware.com
+Jaydeep Suresh Jadhav,JIN096,M,jaydeep.jadhav@joshsoftware.com
 Jayganesh Gupta,603,M,jayganesh.gupta@joshsoftware.com
 Jeevan P,642,M,jeevan.p@joshsoftware.com
 Priyesh Pandurang Kadam,320,M,priyesh.kadam@joshsoftware.com
@@ -105,7 +105,7 @@ Krushna Rajendra Upadhye,668,M,krushna.upadhye@joshsoftware.com
 Kumar Siddhartha,688,M,kumar.siddhartha@joshsoftware.com
 Kiran Balaso Ghodake,290,M,kiran.ghodake@joshsoftware.com
 Pranav Naik,325,M,pranav.naik@joshsoftware.com
-Nagpure Shubham Ramdas ,219,M,shubham.nagpure@joshsoftware.com
+Nagpure Shubham Ramdas,219,M,shubham.nagpure@joshsoftware.com
 Lohith M P,646,M,lohith.mp@joshsoftware.com
 Shubham Kumar Singh,336,M,shubham.singh@joshsoftware.com
 Mahesh Sankar,262,M,mahesh.sankar@joshsoftware.com
@@ -120,7 +120,7 @@ Tejas Vilas Zambre,236,M,tejas.zambre@joshsoftware.com
 Mekala Raj Kumar Reddy,596,M,mekala.reddy@joshsoftware.com
 Meruga Anwesh Reddy,692,M,meruga.reddy@joshsoftware.com
 Milind Anand,556,M,milind.anand@joshsoftware.com
-Mitesh Devendra Sonawane ,577,M,mitesh.sonawane@joshsoftware.com
+Mitesh Devendra Sonawane,577,M,mitesh.sonawane@joshsoftware.com
 Mohammad Abdul Fareed,501,M,mohammad.fareed@joshsoftware.com
 Mohammad Shadab,555,M,mohammad.shadab@joshsoftware.com
 S H Mohammed Idrees,598,M,mohammed.idrees@joshsoftware.com
@@ -134,14 +134,14 @@ Vinayak Behere,174,M,vinayak.behere@joshsoftware.com
 Ranu Jain,546,F,ranu.jain@joshsoftware.com
 Navod PM,571,M,navod.pm@joshsoftware.com
 Nihal Riyaz Nadaf,506,M,nihal.nadaf@joshsoftware.com
-Akansha Kumari ,215,F,akansha.kumari@joshsoftware.com
+Akansha Kumari,215,F,akansha.kumari@joshsoftware.com
 Kamal Singh,191,M,kamal.singh@joshsoftware.com
 Harikesh Nandlal Prajapati,306,M,harikesh.prajapati@joshsoftware.com
 CHINMAY CHANDRAKANT SONAWANE,154,M,chinmay.sonawane@joshsoftware.com
 Nitesh Naik,312,M,nitesh.naik@joshsoftware.com
 Nitin Kore,561,M,nitin.kore@joshsoftware.com
 Omkar Mahadeo Khedkar,616,M,omkar.khedkar@joshsoftware.com
-Omkar Appaso Patil ,682,M,omkar.patil@joshsoftware.com
+Omkar Appaso Patil,682,M,omkar.patil@joshsoftware.com
 Yash Manoj Maheshwari,245,M,yash.maheshwari@joshsoftware.com
 Racheal Papabathini,528,F,racheal.papabathini@joshsoftware.com
 Pallavi Sajjanshetty,JIN070,F,pallavi.sajjanshetty@joshsoftware.com
@@ -154,8 +154,8 @@ Patel Tarang,604,M,patel.tarang@joshsoftware.com
 Syed Ali Hasan,293,M,syed.hasan@joshsoftware.com
 Piyush Ghosal,699,M,piyush.ghosal@joshsoftware.com
 Chandrashekhar Sahu,76,M,chandrashekhar@joshsoftware.com
-Poojan M Naik ,664,M,poojan.naik@joshsoftware.com
-Snehal Dilip Ahire ,144,F,snehal.ahire@joshsoftware.com
+Poojan M Naik,664,M,poojan.naik@joshsoftware.com
+Snehal Dilip Ahire,144,F,snehal.ahire@joshsoftware.com
 Pradnyesh Sharad Patil,589,M,pradnyesh.patil@joshsoftware.com
 Nikhil Narhar Patil,192,M,nikhil.patil@joshsoftware.com
 Tejas Pavaskar,324,M,tejas.pavaskar@joshsoftware.com
@@ -165,13 +165,13 @@ Prateek Jaiswal,678,M,prateek.jaiswal@joshsoftware.com
 Prathamesh Sanjay Lohakare,655,M,prathamesh.lohakare@joshsoftware.com
 Prathamesh Shirke,594,M,prathamesh.shirke@joshsoftware.com
 Devidas Sanjay Kaware,425,M,devidas.kaware@joshsoftware.com
-Pratik Gajanan Varute ,584,M,pratik.varute@joshsoftware.com
+Pratik Gajanan Varute,584,M,pratik.varute@joshsoftware.com
 Pratik Sadashiv Powale,426,M,pratik.powale@joshsoftware.com
 Devanshi rushabh shah,485,F,devanshi.shah@joshsoftware.com
-Vishwajeetsingh Desurkar ,211,M,vishwajeetsingh@joshsoftware.com
+Vishwajeetsingh Desurkar,211,M,vishwajeetsingh@joshsoftware.com
 Premchandra Kumar,526,M,premchandra.kumar@joshsoftware.com
 Pritam Pandit,10012,M,pritam.pandit.jc@joshsoftware.com
-Mayank Sahu ,317,M,mayank.sahu@joshsoftware.com
+Mayank Sahu,317,M,mayank.sahu@joshsoftware.com
 Shital Bharat Dongare,521,F,shital.dongare@joshsoftware.com
 NAGASHREE TJ,551,F,nagashree.tj@joshsoftware.com
 Rahul Radhakishan Jadhav,670,M,rahul.jadhav@joshsoftware.com
@@ -182,7 +182,6 @@ Paramita Majumdar,264,F,paramita.majumdar@joshsoftware.com
 Rajat Ramesh Kawale,581,M,rajat.kawale@joshsoftware.com
 Nagmanikantha Narne,179,M,naga.narne@joshsoftware.com
 Varsha Dipak Patil,569,F,varsha.patil@joshsoftware.com
-Rakshit Kumar Agrawal,547,M,rakshit.agrawal@joshsoftware.com
 Rakshit Kumar Agrawal,547,M,rakshit.agrawal@joshsoftware.com
 Rahul Ghoderao,557,F,rahul.ashok@joshsoftware.com
 Shilpashree N Shivanna,544,F,shilpashree.ns@joshsoftware.com
@@ -196,7 +195,7 @@ Rohini Jagdesh Dhir,592,F,rohini.dhir@joshsoftware.com
 Rohit Rajendra Khanvilkar,499,M,rohit.khanvilkar@joshsoftware.com
 Deepali Pawade,240,F,deepali.pawade@joshsoftware.com
 Shailendra Sunil Kanherkar,125,M,shailendra.kanherkar@joshsoftware.com
-Rohit Satish Sangamnerkar ,578,M,rohit.sangamnerkar@joshsoftware.com
+Rohit Satish Sangamnerkar,578,M,rohit.sangamnerkar@joshsoftware.com
 Royce Cletus Vaz,638,M,royce.vaz@joshsoftware.com
 Alka Kumari,202,F,alka.kumari@joshsoftware.com
 Vimal Jaiswal,353,M,vimal.jaiswal@joshsoftware.com
@@ -211,9 +210,7 @@ Neravati Sai Sreenidhi,516,M,sai.sreenidhi@joshsoftware.com
 Sakshi Viraj Deshpande,JIN075,F,sakshi.deshpande@joshsoftware.com
 Sakshi Singh,651,F,sakshi.singh@joshsoftware.com
 Sammed Sanjay Chougule,658,M,sammed.chougule@joshsoftware.com
-Kaivalya Raghavendra Naik ,343,M,kaivalya.naik@joshsoftware.com
 Sanchi,JIN083,F,sanchi.sunil@joshsoftware.com
-Kartik Ramesh Hiwase,429,M,kartik.hiwase@joshsoftware.com
 Sanjay H,JIN079,M,sanjay.h@joshsoftware.com
 Mahesh Balkrushna Nagpure,223,M,mahesh.nagpure@joshsoftware.com
 Sagar Chaturvedi,269,M,sagar.chaturvedi@joshsoftware.com
@@ -235,7 +232,7 @@ Mandar Bhagwat,258,M,mandar.bhagwat@joshsoftware.com
 Anuradha bhidore,585,F,anuradha.bhidore@joshsoftware.com
 Shubham Sunil Kulkarni,690,M,shubham.kulkarni@joshsoftware.com
 Suraj Chaturvedi,389,M,suraj.chaturvedi@joshsoftware.com
-Shubham Maheshan ,564,M,shubham.maheshan@joshsoftware.com
+Shubham Maheshan,564,M,shubham.maheshan@joshsoftware.com
 Sayali Chandrashekhar Sheth,218,F,sayali.sheth@joshsoftware.com
 Kunal Anil Kadam,335,M,kunal.kadam@joshsoftware.com
 Nilesh Vivek Pandit,314,M,nilesh.pandit@joshsoftware.com
@@ -250,7 +247,7 @@ Rishul Gulati,143,M,rishul.gulati@joshsoftware.com
 Ashok Roshanlal Kori,166,M,ashok.kori@joshsoftware.com
 Mangesh Shinde,465,M,mangesh.shinde@joshsoftware.com
 Sonali Gogate,672,F,sonali.gogate@joshsoftware.com
-Kunal Bhangale ,291,M,kunal.bhangale@joshsoftware.com
+Kunal Bhangale,291,M,kunal.bhangale@joshsoftware.com
 Ruttala Sri Gayathri Kavya,JIN082,F,srigayathri.ruttala@joshsoftware.com
 Srirangam Santosh Kumar,471,M,srirangam.kumar@joshsoftware.com
 Subhasish Karmakar,450,M,subhasish.karmakar@joshsoftware.com
@@ -260,8 +257,6 @@ SUDIPTA SARKAR,246,M,sudipta.sarkar@joshsoftware.com
 Sumit jagannath Arvikar,580,M,sumit.arvikar@joshsoftware.com
 Vaibhav Kishor Chalse,360,M,vaibhav.chalse@joshsoftware.com
 Tejaswini Babasaheb Vhatkar,457,F,tejaswini.vhatkar@joshsoftware.com
-Suraj Sanjeev Chaturvedi,389,M,suraj.chaturvedi@joshsoftware.com
-Suraj Sanjeev Chaturvedi,389,M,suraj.chaturvedi@joshsoftware.com
 Atharva Moreshwar Borekar,384,M,atharva.borekar@joshsoftware.com
 Preeti Dantkale,213,F,preeti.dantkale@joshsoftware.com
 Shubham Mahajan,391,M,shubham.mahajan@joshsoftware.com
@@ -291,12 +286,11 @@ R A V S R Vamsi Krishna,567,M,vamsi.krishna@joshsoftware.com
 Phati Sawant,294,M,phati.sawant@joshsoftware.com
 Aishwarya R,566,F,aishwarya.r@joshsoftware.com
 Rutuja Sanjay Dhokchaule,357,F,rutuja.dhokchaule@joshsoftware.com
-Varun Gadde,358,M,varun.gadde@joshsoftware.com
 Snehal Chandrakant Pise,172,F,snehal.pise@joshsoftware.com
 Vijey Raj Jude R,586,M,vijay.jude@joshsoftware.com
 Vijayalaxmi Shankar Belekar,JIN072,F,vijayalaxmi.belekar@joshsoftware.com
 Mayur Santosh Deshmukh,238,M,mayur.deshmukh@joshsoftware.com
-Mohit Dehuliya ,348,M,mohit.dehuliya@joshsoftware.com
+Mohit Dehuliya,348,M,mohit.dehuliya@joshsoftware.com
 Sonal Sachdev,466,F,sonal.sachdev@joshsoftware.com
 Vijay Shivaji Godse,173,M,vijay.godse@joshsoftware.com
 Abhijeet Kasbe,210,M,abhijit.kasbe@joshsoftware.com
@@ -308,21 +302,17 @@ Abhirami Unnipravan Kunhiraman,593,F,abhirami.kunhiraman@joshsoftware.com
 Y GEETHA SAI MANI BABY SRI,606,F,geetha.sai@joshsoftware.com
 Kaushik Atul Bhagwat,607,M,kaushik.bhagwat@joshsoftware.com
 Ankit Kumar,661,M,ankit.kumar@joshsoftware.com
-Prasad Biswas ,660,M,prasad.biswas@joshsoftware.com
+Prasad Biswas,660,M,prasad.biswas@joshsoftware.com
 Abhinav Raj,652,M,abhinav.raj@joshsoftware.com
-Swapnil Sanjay Dawange,662,M,swapnil.dawange@joshsoftware.com
 Shubham Kumar,653,M,shubham.kumar@joshsoftware.com
-Prathamesh Sanjay Lohakare,655,M,prathamesh.lohakare@joshsoftware.com
 Malhar Deelip Jadhav,657,M,malhar.jadhav@joshsoftware.com
 Gopal Gupta,666,M,gopal.gupta@joshsoftware.com
 Ayush Maheshwari,667,M,ayush.maheshwari@joshsoftware.com
 Thole Tanmay Vardhaman,663,M,tanmay.thole@joshsoftware.com
 Gaurav Sorte,656,M,gaurav.sorte@joshsoftware.com
-Poojan M Naik,664,M,poojan.naik@joshsoftware.com
-Shivprasad Munjarao Bele ,659,M,shivprasad.bele@joshsoftware.com
-Sammed Sanjay Chougule,658,M,sammed.chougule@joshsoftware.com
+Shivprasad Munjarao Bele,659,M,shivprasad.bele@joshsoftware.com
 Gaurav Rajendra Girase,654,M,gaurav.girase@joshsoftware.com
 Harshitha.S,696,F,harshitha.s@joshsoftware.com
-Manik,#N/A,M,#N/A
-Vivek,#N/A,M,#N/A
 Prateek Bundela,438,M,prateek.bundela@joshsoftware.com
+Manik,JS0A1,M,
+Vivek,JS0A2,M,
